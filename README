@@ -1,0 +1,7 @@
+This a Javscript Library that helps send greetings to people in Nigeria in Nigerian languages based on their location in the country.
+
+You can use this library by extending the form in the index.html or creating your own form. Don't forget to use the appropriate
+#id if you create your own html page.
+
+To use Greetr, include Greetr.js, Jquery and app.js in your HTML file. 
+
